@@ -49,6 +49,8 @@
 
 从以下地址下载安装程序：
 
+https://gitee.com/iamverygood/fail2ban-win/releases/tag/v0.1
+
 链接: https://pan.baidu.com/s/10REjRV7fsfBdF2LiJ1NVuA 提取码: `xtr8` 
 
 
